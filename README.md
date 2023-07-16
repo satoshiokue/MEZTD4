@@ -36,8 +36,11 @@ Parts List
 74HC154 x1   若松通商：HD74HC154P　幅狭  
 1N4148 x128  
 High Luminous LED x24  
+DIP Switch 8P x16  
 10k 1/6W x32  
 0.1uF x2  
 PIN Header 1x40 x1  
 
 https://akizukidenshi.com/catalog/g/gI-12687/  
+https://akizukidenshi.com/catalog/g/gP-00587/  
+https://akizukidenshi.com/catalog/g/gC-00167/  
