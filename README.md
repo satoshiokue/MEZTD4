@@ -1,5 +1,5 @@
 # MEZTD4
-## MEZTD4 Mezzanine board for EMUZ80  
+## TD4 Mezzanine board for EMUZ80  
 
 ![MEZTD4](https://github.com/satoshiokue/MEZTD4/blob/main/MEZTD4top.jpg)
   
