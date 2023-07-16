@@ -33,7 +33,7 @@ Garber Data:MEZTD4ROM.zip
   
 Parts List  
 74HC540 x1  
-74HC154 x1  若松通商：HD74HC154P　幅狭  
+74HC154 x1   若松通商：HD74HC154P　幅狭  
 1N4148 x128  
 High Luminous LED x24  
 10k 1/6W x32  
