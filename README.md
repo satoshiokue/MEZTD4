@@ -2,7 +2,7 @@
 ## TD4 Mezzanine board for EMUZ80  
 Schematics:  
 https://github.com/satoshiokue/MEZTD4/blob/main/MEZTD4.pdf  
-Garber Data:MEZTD4.zip  
+Gerber Data:MEZTD4.zip  
 ![MEZTD4](https://github.com/satoshiokue/MEZTD4/blob/main/MEZTD4top.jpg)
   
 Parts List  
@@ -28,7 +28,7 @@ https://akizukidenshi.com/catalog/g/gC-03077/
 ## MEZTD4 ROM board    
 Schematics:  
 https://github.com/satoshiokue/MEZTD4/blob/main/MEZTD4ROM.pdf  
-Garber Data:MEZTD4ROM.zip  
+Gerber Data:MEZTD4ROM.zip  
 ![MEZTD4](https://github.com/satoshiokue/MEZTD4/blob/main/MEZTD4ROMtop.jpg)
   
 Parts List  
